@@ -1,3 +1,6 @@
+The purpose of my site is to help future employers, and or friends get to know me and my interests. I intend to use it as a comprehensive resume. 
+
+
 # Semantic HTML and basic navigation
 
 Create an HTML page using semantic markup. Include a navigation menu that links to two subpages.
